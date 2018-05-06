@@ -1,4 +1,4 @@
-# Ex-Error
+# Ex-Error [![Build Status](https://travis-ci.org/reyhansofian/ex-error.svg?branch=master)](https://travis-ci.org/reyhansofian/ex-error) [![Coverage Status](https://coveralls.io/repos/github/reyhansofian/ex-error/badge.svg?branch=master)](https://coveralls.io/github/reyhansofian/ex-error?branch=master)
 
 An extendible error class for creating custom error.
 
