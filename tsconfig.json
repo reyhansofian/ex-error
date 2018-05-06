@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noUnusedParameters": false,
+    "noUnusedLocals": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "removeComments": false,
+    "sourceMap": true,
+    "declaration": true,
+    "target": "es5",
+    "module": "esnext",
+    "rootDir": "src",
+    "outDir": "lib",
+    "noLib": true,
+    "allowSyntheticDefaultImports": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true,
+    "strictNullChecks": true,
+  },
+  "files": [
+    "node_modules/typescript/lib/lib.es2015.d.ts",
+    "node_modules/typescript/lib/lib.dom.d.ts",
+    "src/index.ts",
+    "index.d.ts"
+  ]
+}

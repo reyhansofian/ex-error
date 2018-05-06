@@ -1,0 +1,13 @@
+{
+    "extends": ["tslint-config-kata"],
+    "rules": {
+        "no-console": [false,
+          "debug",
+          "info",
+          "log",
+          "time",
+          "timeEnd",
+          "trace"
+      ]
+      }
+}
